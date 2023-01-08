@@ -9,7 +9,7 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://gitlab.com/cccnqu111/ws
 
-A Blog web that let you post, edit, and delete ur posts<br>
+I Made A Blog web that let you post, edit, and delete ur posts<br>
 For the Mid Term the " login " function is not yet finished<br>
 <br>
 For the Final Term the login function is working and to use the blog please Login first with :<br>
