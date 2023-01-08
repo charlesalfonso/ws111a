@@ -1,5 +1,5 @@
 Final Term : A Blog web that let you post, edit, and delete ur posts<br>
-The Login function is full working<br>
+The Login function is fully working<br>
 <br>
 To use the blog please Login First with this account :<br>
 Account : Charles<br>
